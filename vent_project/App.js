@@ -4,6 +4,7 @@ import HomeScreen from "./src/screens/HomeScreen";
 import TestScreen1 from "./src/screens/TestScreen1";
 import TestScreen2 from "./src/screens/TestScreen2";
 import TestScreen3 from "./src/screens/TestScreen3";
+import Drawer from "./src/components/Drawer";
 
 const navigator = createStackNavigator(
   {
