@@ -25,6 +25,19 @@ foobar.pluralize('word')
 []
 ```
 
+## Windows Installation
+After downloading, open PowerShell and navigate to the "vent_project" folder. Run the following command:
+
+```
+npm install
+```
+
+Afterwards, use
+```
+npm start
+```
+and open the app using Expo Go
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
