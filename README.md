@@ -4,14 +4,12 @@ mobile application that is able to allow users to **vent** to either another per
 With **vent** we are aiming to allow people to be able to voice their hardship and struggles to another person 
 with complete zero judgement. Hence, this application also makes the interactions between users completely anonymous.
 
-## Installation
+## MacOS Installation
 Use the package manager… to install Vent.
 
 ```bash
 pip install [Vent]
 ```
-
-## MacOS Installation
 ```jsx
 import [Vent]
 
@@ -24,14 +22,18 @@ foobar.pluralize('word')
 # returns []
 []
 ```
+Afterwards, use
+```
+npm start
+```
+This app was developed using **Expo Go.** Hence, to use this application, you can scan the qr 
+code in a phone with this app installed to be able to view it
 
 ## Windows Installation
 After downloading, open PowerShell and navigate to the "vent_project" folder. Run the following command:
-
 ```
 npm install
 ```
-
 Afterwards, use
 ```
 npm start
