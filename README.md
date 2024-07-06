@@ -1,17 +1,17 @@
 # Vent Application
-
-The Vent Application allows users to vent about their hardships and struggles, which relieves their stress and improves their mental well-being. Due to safety and privacy concerns, users post their messages anonymously. Next, other users may respond to the messages, making the author feel heard and understood.
+This is a project developed by 3 students in Azusa Pacific University. The aim for this project is to develop a 
+mobile application that is able to allow users to **vent** to either another person or a personalized chat-box. 
+With **vent** we are aiming to allow people to be able to voice their hardship and struggles to another person 
+with complete zero judgement. Hence, this application also makes the interactions between users completely anonymous.
 
 ## Installation
-
 Use the package manager… to install Vent.
 
 ```bash
 pip install [Vent]
 ```
 
-## Usage
-
+## MacOS Installation
 ```jsx
 import [Vent]
 
@@ -36,15 +36,14 @@ Afterwards, use
 ```
 npm start
 ```
-and open the app using Expo Go
+This app was developed using **Expo Go.** Hence, to use this application, you can scan the qr 
+code in a phone with this app installed to be able to view it
+
 
 ## Contributing
-
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ## License
-
-…
